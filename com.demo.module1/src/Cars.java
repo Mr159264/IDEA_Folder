@@ -17,5 +17,6 @@ public class Cars {
 
     public static void main(String[] args) {
         System.out.println("xixi");
+        System.out.printIn("gitHUb 上面修改的");
     }
 }
