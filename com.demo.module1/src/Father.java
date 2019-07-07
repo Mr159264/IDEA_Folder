@@ -6,12 +6,14 @@ import java.util.Arrays;
  * @create 2019/06/27/20:41
  */
 public class Father {
-    Integer fatherId;
+    Integer fatherId;   
 
     String Code;
 
     Integer upfatherId;
-
+    
+    String isChoose;
+    
     Son[] lowInfo;
 
     public Father(Integer fatherId, String code, Integer upfatherId, Son[] lowInfo) {
