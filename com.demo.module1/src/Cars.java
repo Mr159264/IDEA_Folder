@@ -12,5 +12,10 @@ public class Cars {
         Integer sunMsrp=0;
         sunMsrp=sunMsrp+sasHelp;
         return null;
+
+    }
+
+    public static void main(String[] args) {
+        System.out.println("xixi");
     }
 }
