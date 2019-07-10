@@ -13,6 +13,8 @@ public class Father {
     Integer upfatherId;
     
     String isChoose;
+
+    String xixi;
     
     Son[] lowInfo;
 
